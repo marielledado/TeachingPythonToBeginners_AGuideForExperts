@@ -1,4 +1,5 @@
 # How to Teach Python to Beginners: A Guide for Python Experts
+![Remote Python Pizza](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020_title.png)
 This repository contains the [slides](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020.pdf) for my 10-minute talk "How to Teach Python to Beginners: A Guide for Python Experts" at the first remote [Python Pizza](https://remote.python.pizza/) conference on 25 April 2020. :snake::pizza:
 
 In this README, I cite the resources I mentioned in the talk, plus additional resources that were brought up during the post-talk discussion
