@@ -25,8 +25,7 @@ A collection of short text-based games written in Python 3. Curated by [Al Sweig
 :pray: Emojis from [Emojipedia.org](https://emojipedia.org/)
 
 ## Additional resources 
-
-
+:sparkles: - contributed by conference attendees
 ### Applying dual coding and self-explanations
 
 :star: 
@@ -48,8 +47,6 @@ I recommend their episode on ["Teaching Adult Learners"](https://podtail.com/en/
 
 ### Helpful Python resources of beginners
 
-
-
 ### Helpful tools for teaching Python 
 
 :sparkles: [nbdev](https://github.com/fastai/nbdev)
@@ -60,4 +57,3 @@ A tool that allows you to fully develop libraries directly on Jupyter notebooks.
 
 [Gael Varoquaux](gael-varoquaux.info) has written a few tutorials on `sci-kit learn`, `pandas`, machine learning etc using Jupyter notebooks, all available on his GitHub.
 
-:sparkles: - contributed by conference attendees
