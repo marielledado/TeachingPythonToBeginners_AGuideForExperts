@@ -49,26 +49,25 @@ Similar to Denise Yu, [Julia Evans](https://jvns.ca/) creates adorable comics on
 
 An awesome talk at the conference about writing in-code comments, with some insights on learning proper documentation. The main takeaways are that commenting is a form of documentation and that comments teach us about ourselves. I like that Veronica emphasized that while good comments are extremely useful at avoiding errors, bad comments (especially outdated ones) can be misleading. 
 
-My two cents: I mentioned in my talk that comments are great for learning. It's great to comment a lot when starting out. But after listening to this talk, I now realize that cleaning up comments is also important for learning. You could then consider comment "refactoring" as a way of condensing one's thoughts to be more concise, which is a learning experience in itself.
+My two cents: I mentioned in my talk that comments are great for learning. It's great to comment a lot when starting out. But after listening to this talk, I now realize that cleaning up comments is also important for learning. You could consider comment "refactoring" as a way of condensing one's thoughts to be more concise, which is a learning experience in itself.
 
 :speech_balloon: *"I really needed all those comments at the beginning, even for things that now seem obvious, but especially when I started to work in the context a project with more developers involved, it was really an effort and leave those notes was key. But later one, that cleanup of the comments, or the refactoring of the code itself (why on hell was I doing that in that manner 5 years ago?) is also learning."*
 
 #### :star: [Practice questions at the end of every *Automate the Boring Stuff with Python* chapter](https://automatetheboringstuff.com/) by Al Sweigart
 
-You might have used this book to learn/teach Python, but have you ever paid attention to the practice questions at the end of every chapter? These serve as great self-explanation prompts that you can try with your students to deepen their knowledge on the topic.
+You might have used this book to learn/teach Python. But have you ever paid attention to the practice questions at the end of every chapter? These serve as great self-explanation prompts that you can try with your students to deepen their knowledge on the topic.
 
 ### Developing pedagogical content knowledge
 
 #### :star: [The Carpentries Instuctor Training Guide](https://carpentries.github.io/instructor-training/)
 
-This is perhaps the most comprehensive practical guide to teaching software and data skills I've ever seen that includes relevant theories from cognitive sciences. I think everyone who is mentoring in Python in any capacity to read this.
+This is perhaps the most comprehensive practical guide to teaching software and data skills I've ever seen. Includes relevant theories from cognitive sciences (expertise, cognitive load theory etc), written in an accessible way. I think everyone who is mentoring in Python in any capacity to read this.
 
 #### :sparkles: [*Teaching Python*](https://www.teachingpython.fm/)
 
-A podcast all about teaching Python hosted by middle school teachers learning and teaching Python. 
-"I find it very useful also as a way to get some feedback about existing tools".
+A podcast all about teaching Python hosted by middle school teachers learning and teaching Python. I recommend their episode on ["Teaching Adult Learners"](https://podtail.com/en/podcast/teaching-python/episode-30-teaching-adult-learners/) featuring an interview with [Reuven Lerner](https://lerner.co.il/), another excellent Python trainer.
 
-I recommend their episode on ["Teaching Adult Learners"](https://podtail.com/en/podcast/teaching-python/episode-30-teaching-adult-learners/) featuring an interview with [Reuven Lerner](https://lerner.co.il/), another excellent Python trainer.
+:speech_balloon: "I find it very useful also as a way to get some feedback about existing tools".
 
 ### Helpful Python learning resources
 
