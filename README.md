@@ -1,5 +1,5 @@
 # How to Teach Python to Beginners: A Guide for Python Experts
-This repository contains the [slides](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020.pdf) for my 10-minute talk "How to Teach Python to Beginners: A Guide for Python Experts" at the first remote Python Pizza conference on 25 April 2020. 
+This repository contains the [slides](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020.pdf) for my 10-minute talk "How to Teach Python to Beginners: A Guide for Python Experts" at the first remote [Python Pizza](https://remote.python.pizza/) conference on 25 April 2020. 
 
 In this README, I cite the resources I mentioned in the talk, plus additional resources that were brought up during the post-talk discussion
 
@@ -45,10 +45,17 @@ Similar to Denise Yu, [Julia Evans](https://jvns.ca/) creates adorable comics on
 
 :speech_balloon: *"...linux instead of python but also amazing visualizations!"*
 
+#### :star: ["To comment or not? A data-driven look at attitudes toward code comments"](https://docs.google.com/presentation/d/1N0xBplzWraSJhi-WPLw7chU5glXlpsvaL-tlShH8ff4/edit) by [Veronica Hanus](https://veronicahanus.com/)
+
+An awesome talk at the conference about writing in-code comments, with some insights on learning proper documentation. The main takeaways are that commenting is a form of documentation and that comments teach us about ourselves. I like that Veronica emphasized that while good comments are extremely useful at avoiding errors, bad comments (especially outdated ones) can be misleading. 
+
+My two cents: I mentioned in my talk that comments are great for learning. It's great to comment a lot when starting out. But after listening to this talk, I now realize that cleaning up comments is also important for learning. You could then consider comment "refactoring" as a way of condensing one's thoughts to be more concise, which is a learning experience in itself.
+
+:speech_balloon: *"I really needed all those comments at the beginning, even for things that now seem obvious, but especially when I started to work in the context a project with more developers involved, it was really an effort and leave those notes was key. But later one, that cleanup of the comments, or the refactoring of the code itself (why on hell was I doing that in that manner 5 years ago?) is also learning."*
 
 #### :star: [Practice questions at the end of every *Automate the Boring Stuff with Python* chapter](https://automatetheboringstuff.com/) by Al Sweigart
 
-You might have used this book to learn/teach Python, but have you ever paid attention to the practice questions at the end of every chapter? These serve as great self-explanation prompts.
+You might have used this book to learn/teach Python, but have you ever paid attention to the practice questions at the end of every chapter? These serve as great self-explanation prompts that you can try with your students to deepen their knowledge on the topic.
 
 ### Developing pedagogical content knowledge
 
@@ -112,5 +119,3 @@ Host your teaching materials (i.e., as Jupyter notebooks) in a GitHub repo that 
 :speech_balloon: *"yeah, from my experience, introducing the git at the beginning of the course is really worth the effort"*
 
 :speech_balloon: *"You can upload notebooks to github, if you've run it before comming github will render the result...It doesn't work on mobile but desktop should be fine"*
-
-https://colab.research.google.com/
