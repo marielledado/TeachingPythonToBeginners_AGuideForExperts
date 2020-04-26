@@ -1,5 +1,5 @@
 # How to Teach Python to Beginners: A Guide for Python Experts
-This repository contains the [slides](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020.pdf) for my 10-minute talk "How to Teach Python to Beginners: A Guide for Python Experts" at the first remote [Python Pizza](https://remote.python.pizza/) conference on 25 April 2020. 
+This repository contains the [slides](https://github.com/marielledado/TeachingPythonToBeginners_AGuideForExperts/blob/master/mdado_remotepythonpizza2020.pdf) for my 10-minute talk "How to Teach Python to Beginners: A Guide for Python Experts" at the first remote [Python Pizza](https://remote.python.pizza/) conference on 25 April 2020. :snake::pizza:
 
 In this README, I cite the resources I mentioned in the talk, plus additional resources that were brought up during the post-talk discussion
 
@@ -17,7 +17,7 @@ An essay by interface designer Bret Victor, in which he argues that many program
 
 #### :point_right: [*Understanding How We Learn: A Visual Guide*](https://www.learningscientists.org/book) and [*The Learning Scientists*](https://www.learningscientists.org/) by [Dr. Yana Weinstein](https://www.yanaweinsteinjones.com/) and [Dr Megan Sumeracki](https://twitter.com/drsumeracki)
 
-The evidence-based instructional strategies I presented were based mainly on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) six strategies for effective learning. I highly recommend them if you want to improve your teaching based on methods backed by research. 
+The evidence-based instructional strategies I presented are based on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) six strategies for effective learning. I highly recommend them if you want to improve your teaching based on methods backed by research. 
 
 #### :point_right: [Python Tutor](http://www.pythontutor.com/)
 
@@ -55,35 +55,35 @@ My two cents: I mentioned in my talk that comments are great for learning. It's 
 
 #### :star: [Practice questions at the end of every *Automate the Boring Stuff with Python* chapter](https://automatetheboringstuff.com/) by Al Sweigart
 
-You might have used this book to learn/teach Python. But have you ever paid attention to the practice questions at the end of every chapter? These serve as great self-explanation prompts that you can try with your students to deepen their knowledge on the topic.
+You might have used this book to learn/teach Python. But have you ever paid attention to the practice questions at the end of every chapter? These could serve as great self-explanation prompts that you can try with your students to deepen their knowledge about the chapter's topic.
 
 ### Developing pedagogical content knowledge
 
 #### :star: [The Carpentries Instuctor Training Guide](https://carpentries.github.io/instructor-training/)
 
-This is perhaps the most comprehensive practical guide to teaching software and data skills I've ever seen. Includes relevant theories from cognitive sciences (expertise, cognitive load theory etc), written in an accessible way. I think everyone who is mentoring in Python in any capacity to read this.
+This is perhaps the most comprehensive practical guide to teaching software and data skills I've ever seen. Includes relevant theories from cognitive sciences (expertise, cognitive load theory etc), written in an accessible way. I think everyone who is mentoring in Python in any capacity should read this.
 
 #### :sparkles: [*Teaching Python*](https://www.teachingpython.fm/)
 
 A podcast all about teaching Python hosted by middle school teachers learning and teaching Python. I recommend their episode on ["Teaching Adult Learners"](https://podtail.com/en/podcast/teaching-python/episode-30-teaching-adult-learners/) featuring an interview with [Reuven Lerner](https://lerner.co.il/), another excellent Python trainer.
 
-:speech_balloon: "I find it very useful also as a way to get some feedback about existing tools".
+:speech_balloon: *"I find it very useful also as a way to get some feedback about existing tools".*
 
 ### Helpful Python learning resources
 
-#### :sparkles: [*Python Data Science Handbook*](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake van der Plas
+#### :sparkles: [*Python Data Science Handbook*](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
 
-Excellent introductory book about Python for data science
+Excellent introductory book on Python for data science
 
 :speech_balloon: *"the data science handbook is also quite nice, and should run on Binder"*
 
-#### :star: [*A Whirlwind Tour of Python*](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake van der Plas
+#### :star: [*A Whirlwind Tour of Python*](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas
 
 A great intro to Python book geared towards people with prior programming experience in another language
 
 #### :sparkles: [Tutorials by Gael Varoquaux](https://github.com/GaelVaroquaux)
 
-[Gael Varoquaux](gael-varoquaux.info) has written a few tutorials on `sci-kit learn`, `pandas`, machine learning etc using Jupyter notebooks, all available on his GitHub.
+[Gael Varoquaux](gael-varoquaux.info) has written a few tutorials on `sci-kit learn`, `pandas`, machine learning etc using Jupyter notebooks, all available on GitHub.
 
 :speech_balloon: *"I remember the jupyter notebooks from Gael Varoquaux as very useful to learn more alone at home."*
 
@@ -101,11 +101,11 @@ Lets you host and execute Python code à la Jupyter notebooks, great for present
 
 #### :sparkles: [Atom Teletype](https://teletype.atom.io/)
 
-Free and open source tool for collaborative (i.e., pair) programming
+Free and open source tool for collaborative/pair programming
 
 #### :sparkles: [asciinema](https://asciinema.org/)
 
-Free and open source tool for recording and sharing terminal sessions 
+A tool for recording and sharing terminal sessions 
 
 :speech_balloon: *"just a terminal recorder, there are plenty of opensource alternatives, but it is a bit difficult to transform them to gif/video, not straighforward"*
 
