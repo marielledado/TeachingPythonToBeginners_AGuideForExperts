@@ -8,6 +8,8 @@ In this README, I cite the resources I mentioned in the talk, plus additional re
 
 :speech_balloon: - attendee comments
 
+P.S. If you're a Python mentor/trainer and wanna chat about evidence-based strategies, please don't hesitate to reach out!:email: Happy to give feedback on tutorials/workshops etc.  I owe a lot to the kind & patient folks who helped me out when I first started out with Python. This is my way of giving back! You can find me on [Twitter](https://twitter.com/marielli) or [LinkedIn](https://www.linkedin.com/in/marielledado/)
+
 ## Resources mentioned in the talk
 
 #### :point_right: [*Learnable Programming*](http://worrydream.com/LearnableProgramming/) by [Bret Victor](http://worrydream.com/)
