@@ -11,14 +11,14 @@ An essay by interface designer Bret Victor, in which he argues that many program
 
 :point_right: [*Understanding How We Learn: A Visual Guide*](https://www.learningscientists.org/book) and [*The Learning Scientists*](https://www.learningscientists.org/) by [Dr. Yana Weinstein](https://www.yanaweinsteinjones.com/) and [Dr Megan Sumeracki](https://twitter.com/drsumeracki)
 
-The evidence-based instructional strategies I presented were based mainly on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) six strategies for effective learning--highly recommended if you want to improve your teaching based on methods backed by research. 
+The evidence-based instructional strategies I presented were based mainly on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) six strategies for effective learning. I highly recommend them if you want to improve your teaching based on methods backed by research. 
 
 :point_right: [Python Tutor](http://www.pythontutor.com/)
 
 An online tool created by [Philip Guo](http://pgbovine.net/) that visualizes the execution of each line of code. Excellent application of the [dual coding](https://www.learningscientists.org/dual-coding) strategy. [Here's a link](http://tiny.cc/e4mmnz) to the code I presented. Available in other programming languages.
 
 
-:point_right: [PythoStdioGames](https://github.com/asweigart/PythonStdioGames)
+:point_right: [PythonStdioGames](https://github.com/asweigart/PythonStdioGames)
 
 A collection of short text-based games written in Python 3. Curated by [Al Sweigart](https://alsweigart.com/) specifically for beginners. Show these games to your learners and help them develop an understanding of Python fundamentals using the [self-explanations](https://www.learningscientists.org/elaboration) strategy.
 
