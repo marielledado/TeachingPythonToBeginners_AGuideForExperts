@@ -11,6 +11,9 @@ In this README, I cite the resources I mentioned in the talk, plus additional re
 P.S. If you're a Python mentor/trainer and wanna chat about evidence-based strategies, please don't hesitate to reach out!:email: Happy to give feedback on tutorials/workshops etc.  I owe a lot to the kind & patient folks who helped me out when I first started out with Python. This is my way of giving back! You can find me on [Twitter](https://twitter.com/marielli) or [LinkedIn](https://www.linkedin.com/in/marielledado/)
 
 ## Resources mentioned in the talk
+#### :point_right: [*Understanding How We Learn: A Visual Guide*](https://www.learningscientists.org/book) and [*The Learning Scientists*](https://www.learningscientists.org/) by [Dr. Yana Weinstein](https://www.yanaweinsteinjones.com/) and [Dr Megan Sumeracki](https://twitter.com/drsumeracki)
+
+The evidence-based instructional strategies I presented are based on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) of six strategies for effective learning. I highly recommend them if you want to improve your teaching based on methods backed by research. 
 
 #### :point_right: [*Learnable Programming*](http://worrydream.com/LearnableProgramming/) by [Bret Victor](http://worrydream.com/)
 
@@ -18,9 +21,7 @@ An essay by interface designer Bret Victor, in which he argues that many program
 
 :speech_balloon: *"if someone is still not familiar with the work of Bret Victor, I totally recommend you to watch any video of him, it's really inspiring. I think one of the best videos he has is the one that develops a mario-alike video game."*
 
-#### :point_right: [*Understanding How We Learn: A Visual Guide*](https://www.learningscientists.org/book) and [*The Learning Scientists*](https://www.learningscientists.org/) by [Dr. Yana Weinstein](https://www.yanaweinsteinjones.com/) and [Dr Megan Sumeracki](https://twitter.com/drsumeracki)
 
-The evidence-based instructional strategies I presented are based on the incredible work of these two amazing cognitive psychologists, who have made it their mission to make scientific research on learning more accessible. Their blog contains [free downloadable materials](https://www.learningscientists.org/downloadable-materials) six strategies for effective learning. I highly recommend them if you want to improve your teaching based on methods backed by research. 
 
 #### :point_right: [Python Tutor](http://www.pythontutor.com/)
 
@@ -40,7 +41,7 @@ A collection of short text-based games written in Python 3. Curated by [Al Sweig
 
 #### :star: [Art by Denise Yu](https://deniseyu.io/art/)
 
-[Denise Yu](https://deniseyu.io/) is a software engineer who likes to create sketchnotes and doodles (with cats!) about technical subject matters. Doodling is a great exercise that applies both dual coding and self-explanation strategies that could help learners make sense of technical concepts.
+[Denise Yu](https://deniseyu.io/) is a software engineer who likes to create sketchnotes and doodles (with cats!) about technical subject matters. Doodling is a great exercise that applies both dual coding and self-explanation strategies and could help learners make sense of technical concepts.
 
 #### :sparkles: [Wizard Zines](https://wizardzines.com/)
 
