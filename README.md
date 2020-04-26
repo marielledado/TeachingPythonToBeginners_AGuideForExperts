@@ -62,7 +62,7 @@ You might have used this book to learn/teach Python. But have you ever paid atte
 
 ### Developing pedagogical content knowledge
 
-#### :star: [The Carpentries Instuctor Training Guide](https://carpentries.github.io/instructor-training/)
+#### :star: [The Carpentries Instructor Training Guide](https://carpentries.github.io/instructor-training/)
 
 This is perhaps the most comprehensive practical guide to teaching software and data skills I've ever seen. Includes relevant theories from cognitive sciences (expertise, cognitive load theory etc), written in an accessible way. I think everyone who is mentoring in Python in any capacity should read this.
 
